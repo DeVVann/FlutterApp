@@ -15,3 +15,4 @@ and build/run the project as usual.
 You can use the commands `flutter build` and `flutter run` from the app's root
 directory to build/run the app or to build with Android Studio, open the
 `android` folder in Android Studio and build the project as usual.
+v
